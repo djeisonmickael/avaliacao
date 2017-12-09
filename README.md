@@ -6,7 +6,7 @@
 # Exercicio 1 = exe1.php
 # Exercicio 2 = exe2.php
 # Exercicio 3 = exe3.php
-# Exercicio 4 = abrir pasta exe4
+# Exercicio 4 = descompactar o arquivo exe4.zip 
 #
 #
 # Agradeço a oportunidade.
